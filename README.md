@@ -1,4 +1,4 @@
-# Speed-Indicating-Helmet-Phase-1-
+# Speed-Indicating-Helmet-Phase-1
 
 A smart helmet is a type of protective headgear used by the rider which makes bike driving safer than before. The 
 main purpose of this helmet is to provide safety for the rider. By integrating wireless transmission between the 
